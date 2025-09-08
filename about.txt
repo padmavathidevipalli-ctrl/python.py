@@ -1,0 +1,5 @@
+Name=Devipalli padmavathi
+Course=Degree (BCA)
+College=Aditya degree college
+github :
+It is used to store the files,and merge the documents automatically.
